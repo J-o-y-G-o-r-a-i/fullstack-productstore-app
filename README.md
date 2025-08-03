@@ -3,7 +3,7 @@
 👌 Global state management with Zustand
 🐞 Error handling both on the server and client
 ⭐ Deployment for FREE!
-⏳ And much more!
+⏳ App URI = https://fullstack-productstore-app.onrender.com 
 
 ### Setup .env file
 
