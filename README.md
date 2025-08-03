@@ -1,3 +1,4 @@
+### Highlites :-
 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
 🚀 Rate Limiting & Bot Detection
 👌 Global state management with Zustand
